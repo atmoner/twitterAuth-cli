@@ -1,0 +1,13 @@
+{
+  "name": "twitterAuth-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "atmon3r",
+  "license": "ISC",
+  "dependencies": {
+    "node-twitter-api": "^1.8.0",
+    "prompt": "^1.0.0"
+  }
+}
